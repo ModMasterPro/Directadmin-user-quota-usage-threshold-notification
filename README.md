@@ -1,5 +1,5 @@
 # Directadmin user quota usage threshold notification
-Setting:  
+Settings:  
 // Notification settings  
 $notify_email='mail@email.address';  
 $notify_threshold=70;  
